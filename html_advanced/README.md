@@ -4,7 +4,7 @@
 For this project, we expect you to look at this concept:
 * [HTML - elements of a web page](https://intranet.hbtn.io/concepts/139) 
 
- ![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220725%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220725T151210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fe9b2d853a607985755c2b62ad51df9d31bba28843dffa776c15738f6baf0cee) 
+ ![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250410%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250410T084529Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8b916a795bf2851de8ed8f4309ab48f24b8cff5f14d54d3a1907956340f07558) 
 
 # Welcome!
 Welcome to the Web Stack specialization. The 3 first projects will give you all basics of the Web development: HTML, CSS and Developer tools.
@@ -44,10 +44,10 @@ At the end of this project, you are expected to be able to  [explain to anyone](
 
 *  ` Techium `  will be the name of the company we will use across our webpages.
 ## Sitemap of the project
- ![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220725%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220725T151210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=76f43c8bce84e65d1ef09625c2bb94b1aa08cd9cbc20f213eca7e503502d0dcc) 
+ ![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250410%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250410T084529Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=066ec85af484d96a639a4d3bbb84ede504d26abe5aa5ebd0064fb926fc12b834) 
 
 ## Wireframe of Techium project
- ![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220725%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220725T151210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9458c5d0adc039b6f494853507af18acf99fe3fcf836d11a8eebc72fd04c368b) 
+ ![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250410%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250410T084529Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=74af04a118c89f2385176df2a1dbb93fe1e84427eef153e1ac14f6035ff8736b) 
 
 ### Quiz questions
 Great!          You've completed the quiz successfully! Keep going!          (Show quiz)#### 
@@ -209,7 +209,7 @@ W3C won’t pass - you can ignore it
  Self-paced manual review  Panel footer - Controls 
 ### 2. The head - meta charset, viewport, title, description, favicons
           mandatory         Progress vs Score  Task Body Copy the content of   ` 1-index.html `   into   ` 2-index.html ` 
- ![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/11/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220725%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220725T151210Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ca081c595dadd734e416bbc773496a6c0e551ca307ba9099011ef1b07c417d00) 
+ ![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/11/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20250410%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20250410T084529Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=82575db24c401b59b09d2630d657acf1e4a5fc4c6ba792c585bb2b1a1cd2d58a) 
 
 Meta charset:
 * add a  ` meta `  tag inside the  ` head ` :* add the  ` charset `  attribute with the value  ` utf-8 ` 
