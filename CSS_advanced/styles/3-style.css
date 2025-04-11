@@ -1,0 +1,36 @@
+html {
+    scroll-behavior: smooth;
+}
+
+/* 1. Define custom properties (CSS variables) on :root */
+:root {
+    --color-primary: #d73953;
+    --color-black: #090909;
+    --color-white: #ffffff;
+    --color-light-grey: #f3f3f3;
+    --color-dark-grey: #353535;
+    --text-color: var(--color-black);
+}
+
+/* 2. Set text color using variables */
+body {
+    color: var(--text-color);
+}
+
+a {
+    color: var(--text-color);
+}
+
+/* 3. Hide elements visually */
+.visually-hidden {
+    display: none;
+}
+
+/* 4. Reuse primary color variable for these classes */
+.card-category {
+    color: var(--color-primary);
+}
+
+.section-tagline {
+    color: var(--color-primary);
+}
