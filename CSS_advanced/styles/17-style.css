@@ -242,11 +242,6 @@ h6 {
     font-weight: var(--font-weight-bold);
 }
 
-a {
-    color: var(--text-color);
-    text-decoration: none;
-}
-
 a:link {
     color: var(--text-color);
     text-decoration: none;
@@ -286,6 +281,7 @@ a:active {
 
 .section-header {
     text-align: var(--section-header-align);
+    padding: var(--section-header-padding);
 }
 
 .section-body {
