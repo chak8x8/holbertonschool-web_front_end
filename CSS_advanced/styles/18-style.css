@@ -323,7 +323,7 @@ a:active {
 .nav {
     margin: 0;
     padding: 0;
-    padding-right: 0;
+    list-style: none;
     text-align: center;
 }
 
