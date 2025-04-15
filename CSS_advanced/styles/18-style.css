@@ -221,7 +221,7 @@ html {
     --section-footer-padding: 3rem 0 0;
     --section-footer-align: center;
     --footer-padding: 5rem 0 1rem;
-    --nav-item-font-family: var(--font-family-title);
+    --nav-item-font-family: var(--font-family-base);
     --nav-item-font-weight: var(--font-weight-bold);
     --nav-item-font-size: var(--font-size-medium);
     --nav-item-letter-spacing: 4%;
